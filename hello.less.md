@@ -4,9 +4,18 @@ $ cat hello.css
 ```
 
 ```
-.hello {
-  width: 100px;
-  color: '#FF0000';
-  strange: abc 123 sdf;
+.center {
+  margin: 0 auto;
+  width: 400px;
+}
+.header {
+  font-size: 100px;
+  margin: 0 auto;
+  width: 400px;
+}
+.body {
+  font-size: 16px;
+  margin: 0 auto;
+  width: 400px;
 }
 ```

@@ -1,7 +1,7 @@
-LessCSS Variable Demo
-=====================
+LessCSS Mixin Demo
+==================
 
-Use `@` to define and reference variables.
+Much simpler than I thought.
 
 ```
 npm install

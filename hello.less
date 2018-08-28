@@ -1,9 +1,14 @@
-@width: 100px;
-@font-color: '#FF0000';
-@strange: abc 123 sdf;
+.center {
+  margin: 0 auto;
+  width: 400px;
+}
 
-.hello {
-  width: @width;
-  color: @font-color;
-  strange: @strange;
+.header {
+  font-size: 100px;
+  .center
+}
+
+.body {
+  font-size: 16px;
+  .center
 }
